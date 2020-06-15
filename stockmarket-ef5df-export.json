@@ -1,0 +1,54 @@
+{
+  "Data" : {
+    "infosys" : {
+      "scriptname" : "SBI Life",
+      "sl" : "Testing Sl Trading Data",
+      "time" : "31/05/202 11:35 Am",
+      "total1" : "300",
+      "total2" : "200",
+      "total3" : "300",
+      "type" : "Sell Below"
+    },
+    "tcs" : {
+      "scriptname" : "Asian Paint",
+      "sl" : "Testing Asain Data",
+      "time" : "31/05/202 11:40 Pm",
+      "total1" : "100",
+      "total2" : "200",
+      "total3" : "300",
+      "type" : "Buy Above"
+    },
+    "tikona" : {
+      "scriptname" : "HDFC Bank",
+      "sl" : "Hello Welcome To Ritz Trading",
+      "time" : "30/05/2020 10:15 Pm",
+      "total1" : "100",
+      "total2" : "200",
+      "total3" : "300",
+      "type" : "Sell Below"
+    }
+  },
+  "IntradayTips" : {
+    "plan" : {
+      "buyabove" : "1582/1660",
+      "stockname" : "Asian Paint ",
+      "stoploss" : "1583",
+      "tgt" : "1414/14141/1414"
+    },
+    "plan2" : {
+      "buyabove" : "1547 / 2588",
+      "stockname" : "ICICI Bank",
+      "stoploss" : "1414/ 1515 / 1515",
+      "tgt" : "1414 /74747 / 7878"
+    }
+  },
+  "PositionalTips" : {
+    "plan" : {
+      "buyabove" : "4152/7458",
+      "remarks" : "This is an testing remarks",
+      "stockname" : "Testing Trade",
+      "stoploss" : "5255",
+      "tgt" : "4141/8585/9898"
+    }
+  }
+}
